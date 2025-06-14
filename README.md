@@ -1,8 +1,15 @@
 # Unc inc Graduation Internship
 ## My time as a frontend intern
 ## The company
-We design and develop digital platforms and apps to foster collaboration and create positive change.
-n small, self-managing teams, we work together on big challenges. We actively involve our partners and end users, giving everyone the freedom to share ideas. This is how we continue to innovate and grow, learning from each other, every project and every collaboration, every day.
+During my internship at **UNC Inc.**, I had the opportunity to work with an innovative company that:
+
+- Designs and develops digital platforms and applications to foster collaboration and drive positive change
+- Operates in small, self-managing teams to tackle significant challenges
+- Emphasizes active partnership involvement and end-user engagement
+- Encourages open idea-sharing to fuel continuous innovation
+- Maintains a culture of constant learning from every project and collaboration
+
+This experience provided me with valuable insights into agile development processes and user-centered design methodologies.
 
 ### The projects
 During my internship, I was able to work on:
