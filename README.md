@@ -28,8 +28,13 @@ I learned more about React and what it’s like to work in a multidisciplinary t
 
 
 ## looping with css
-For the  solutions page i used css to loop threw differnt colors for the hover effect.
-These rules apply different background colors  2nd, 3rd, and 4th element of their type for the solutuions page i used modulo to calculate when each style has to be applied.
+For the Solutions page, I implemented an interactive hover effect using CSS that cycles through different colors. The styling logic:
+
+- Uses `:nth-of-type()` pseudo-classes to target specific elements in sequence
+- Applies distinct background colors to every 2nd, 3rd, and 4th element of their type
+- Leverages modulo operations in the JavaScript implementation to calculate and apply these styles dynamically
+
+This approach creates a visually engaging pattern while maintaining consistent, programmatic styling rules.
 
 ```css
 &:nth-of-type(2n) {
