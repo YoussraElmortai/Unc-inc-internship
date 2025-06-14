@@ -32,7 +32,6 @@ For the Solutions page, I implemented an interactive hover effect using CSS that
 
 - Uses `:nth-of-type()` pseudo-classes to target specific elements in sequence
 - Applies distinct background colors to every 2nd, 3rd, and 4th element of their type
-- Leverages modulo operations in the JavaScript implementation to calculate and apply these styles dynamically
 
 This approach creates a visually engaging pattern while maintaining consistent, programmatic styling rules.
 
