@@ -1,5 +1,4 @@
 # Unc inc Graduation Internship
-## My time as a frontend intern
 ## The company
 During my internship at **UNC Inc.**, I had the opportunity to work with an innovative company that:
 
@@ -18,8 +17,29 @@ During my internship, I was able to work on:
 - UNC Inc's Design system
 
 ### What I learned
-I learned more about React and what it’s like to work in a multidisciplinary team. It also gave me great insight into how working in sprints functions in practice.
+## Key Learnings
 
+Through this project, I gained valuable experience and insights into:
+
+### Technical Skills
+- **React Development**: Deepened my understanding of React's concepts and best practices
+- **JavaScript/TypeScript**: Expanded my knowledge of modern JavaScript
+- **Component-Based Architecture**:
+  - Built reusable components for a shared library
+  - Implemented consistent UI patterns across the application
+
+### Development Processes
+- **Agile Methodology**:
+  - Gained hands-on experience working in sprints
+  - Participated in daily standups and sprint planning
+- **Drupal Integration**:
+  - Worked with Drupal as a headless CMS
+  - Connected React components with Drupal's backend and under guidance edited Drupal fields
+
+### Team Collaboration
+- Worked  in a multidisciplinary team environment
+- Collaborated with designers, backend developers, and product owners
+- Learned to communicate technical concepts to other collaborators
 
 ### Highlights
 
